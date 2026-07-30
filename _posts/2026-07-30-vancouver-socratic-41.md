@@ -60,7 +60,7 @@ Winner of the btc++ Toronto hackathon
 ## Optech
 
 - [Organised crime groups move billions through crypto, global financial crime watchdog warns](https://www.reuters.com/legal/government/organised-crime-groups-move-billions-through-crypto-global-financial-crime-2026-07-16/)
-- [Coldcard security advisory](https://x.com/COLDCARDwallet/status/2082961993070247948)
+- [Coldcard Mk3 security advisory](https://blog.coinkite.com/coldcard-mk3-seed-generation-warning/)
 
 ## Bitcoinomics
 
