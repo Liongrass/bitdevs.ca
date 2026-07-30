@@ -17,19 +17,17 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - ⚡[Mahony's Tavern](https://www.mahonystavern.com/): Pub by Vancouver Convention Centre with view over the harbour
 - ⚡[Park Drive](https://www.parkdrive.ca/): Pub on Commercial Drive
 - ⚡[Poseidon Greek](https://poseidonrestaurant.ca/): Greek restaurant in Langley
-- ⚡[Sharky's Chophouse](https://sharkyschophouse.ca/): Coffee shop in Anmore
+- ⚡[Sharky's Chophouse](https://sharkyschophouse.ca/): Hot meals at the Lonsdale Market
+- ⚡[Trails Coffee](https://trailscoffee.com/): Coffee shop in Anmore
 - ⚡[Uno Gelato](https://unogelato.com/): Ice cream in Downtown, Greektown and Olympic Village
 - ⚡[Butcher's Block & BBQ](https://butchersblockbbq.com/)
 
 ### Restaurants, cafes & Bars:
 
-- [Aldergrove Cafe by Lucia](https://www.instagram.com/aldergrove_cafe/): Breakfast and lunch diner in Aldergrove
-- [Big Bite Donair](https://bigbitedonair.ca/): Kebaps
 - [Butcher's Block & BBQ](https://butchersblockbbq.com/): BBQ joint in Burnaby Heights
 - [Brave Brewing](https://www.brave.beer/): Brewery in Port Moody
 - [Bula Lounge](https://bulalounge.com/): Shisha Lounge in East Van
 - [Cambie Vietnamese Restaurant](https://www.cambievietnameserestaurant.com/): Vietnamese Restaurant on Main Street
-- [Carnitas Don Jose](https://www.donjosecarnitas.ca/): Mexican food in Chinatown
 - [Container Brewing](https://www.drinkcontainer.beer/hodl): Brewery in Strathcona
 - [Funk Coffee Bar](https://www.funkcoffeebar.com/): Coffee and Bar downtown
 - [Honest to Pete](https://honesttopete.com/): Coffee at The Beaumont
@@ -40,11 +38,9 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - [Milano Espresso Bar](https://www.milanocoffee.ca/): Coffee on Denman Street
 - [Park Drive](https://www.parkdrive.ca/): Pub on Commercial Drive
 - [Poseidon Greek](https://poseidonrestaurant.ca/): Greek restaurant in Langley
-- Ross Crêpe and Cafe: Coffee and dessert shop at Lonsdale Quay
 - [Rens Cafe](https://renscafe.com/)
 - [Salad House Buffet](https://www.order.store/ca/store/salad-house-buffet/p4IKH8khR3COifLmVBc1Yw): Salad bar by City Hall
 - [Sharky's Chophouse](https://sharkyschophouse.ca/)
-- [Shawarma Corner](https://zomi.menu/?shop=497&utm=&table=): Shwarma
 - [The Laughing Bean Coffee](https://www.laughingbeancoffee.com/): Coffee and baked delicacies
 - [Uno Gelato](https://unogelato.com/): Ice cream in Downtown, Greektown and Olympic Village
 
@@ -66,23 +62,23 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - [Arc Studio](https://arcstudiospace.com/): Pilates studio on Commercial Drive
 - [Clover Salon](https://www.cloversalon.com/): Men's and women's haircuts, coloring, grooming, hennas
 - [Cocoa Tanning](https://www.cocoatanning.ca/): Tanning studio and sauna
+- [Conscious Minds Clinic](https://www.consciousmindclinic.com/)
 - [Crypto Barbershop](https://cryptobarbershops.com/): Men's haircuts and grooming
 - [Float House Therapy](https://floathouse.ca/): Wellness center
 
 ### Miscallaneous shops
 
 - [Adrenaline Tattoo](https://adrenalinestudios.com/): Tattoo parlor on Main Street
-- Al Madina Corner Store: Convenience store on West Pender
 - [All Natural Meat](https://www.allnaturalmeatshop.com/): Butcher in North Vancouver
 - [Blunt Cannabis](https://www.bluntcannabis.ca/): Cannabis Store in Lonsdale
 - [City Park Express](https://goo.gl/maps/GLqh1dquS5dAK9Zg9): Convenience store
-- [Disco Biscuits](https://discobiscuits.ca/): Cart selling donuts around Vancouver
 - [EJ Cell Phone Repair](https://ejrepair.com/): Cell phone repair in Greektown
 - [Fine Finds Boutique](https://finefindsboutique.com/): Clothing in Yaletown
 - [Happy Wanderers Butcher](https://www.happywandererscattle.com/)
 - [House of Keys](https://www.houseofkeysbc.com/): Hardware store in North Vancouver
 - [Jack Lonsdale](https://jacklonsdales.ca/): Liquor store in Lonsdale
 - [Kim's Repair](https://kimsrepair.com): Shoe and bag repair
+- [Maison Birks](https://www.maisonbirks.com/on/demandware.store/Sites-maison-birks-ca-Site/en_CA/Stores-Details?storeID=birks-group-boutique-birks-patek): Jewelry
 - [Oh My Print Solutions](https://www.ohmyprintsolutions.com/)
 - [Old Country Pierogi](http://www.oldcountrypierogi.com/): Food Truck
 - [Print Print](https://printprint.ca/): Print shop near Chinatown
@@ -104,7 +100,6 @@ Looking for how to accept Lightning payments yourself? [Check out our handy guid
 - [Mati Bistro](https://www.matibistro.com/home): Catering
 - [Metro Communications](https://www.yelp.ca/biz/metro-communications-burnaby): Business VoIP services
 - [Paris Service Group](https://parisservicegroup.com/): Plumbing, heating and AC services
-- [Petit Bombon](https://www.instagram.com/petitbombon12/): Exquisit desserts
 - [Picasso Home Painting](http://picasshomepainting.com/): Painting business
 - [Powell Contracting Renovations](https://www.powell-contracting.com/)
 - [Powell Manufacturing](https://powellmanufactory.com/): Custom 3D Printing & Jewelry
