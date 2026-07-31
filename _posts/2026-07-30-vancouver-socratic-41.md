@@ -91,6 +91,7 @@ Winner of the btc++ Toronto hackathon
 
 ## New Releases
 
+- [Cash Sats](https://cashsats.com)
 - [Cloudflare Monetization Gateway](https://blog.cloudflare.com/monetization-gateway/)
 - [Deposit to Polymarket over the Lightning Network](https://x.com/spark/status/2074539080197775421)
 - [Announcing Wavelength: Bitcoin on Easy Mode for Agents and Humans](https://lightning.engineering/posts/2026-07-21-wavelength-launch/)
